@@ -32,20 +32,16 @@ No matter the disaster, on Earth, in space or on any other planet, Vektra is the
 
 ## What we're building
 
-### Vektra Agent · *in design*
-The agent harness, built from scratch.
-- The **Charter** and **VKT IDs** sit inside the core loop, not bolted on.
-- **Human stop and hand-back are built in:** a stop always works, and when the agent is unsure it returns control with an honest note.
-- Designed to keep working with a weak or missing network.
-- Open source, **Apache-2.0** planned.
+### ILO · *R&D*
+Intelligent Life Operator: a small Rust policy kernel designed to sit between an AI agent and the world, with human approval for consequential actions. Apache-2.0 planned.
 
 ### VEKTRA Government Concept
 An **open agent registry and Charter for AI agents and robots.** It is a standard, not a real government: an open record of who made an agent, who answers for it, what it is licensed to do, and how that license is revoked.
 - **VKT-AI-###** registry IDs, compatible with **W3C DIDs**.
 - The Charter sets what makers, guardians and agents must and must not do.
 
-### Vektra Research · *coming*
-Open papers and specifications behind everything above.
+### Vektra Research
+The open research lab of Vektra Industries: methods, findings, and instruments behind everything above, published so anyone can check them. [research.vektraindustries.com](https://research.vektraindustries.com)
 
 ---
 
